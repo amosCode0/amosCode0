@@ -60,7 +60,7 @@ A dual-purpose vehicle maintenance tracker and customer retention ecosystem conn
 ![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT_(PRE--LAUNCH)-FF8C00?style=for-the-badge)
 ![Code](https://img.shields.io/badge/CODE-PRIVATE_/_COMMERCIAL-333333?style=for-the-badge&logo=github&logoColor=white)
 
-> *Note for Recruiters & Hiring Managers: To protect commercial intellectual property, the source code for my production applications is hosted in private repositories. Code walkthroughs and architecture demonstrations are gladly provided upon request during interviews.*
+> *To protect commercial intellectual property, the source code for my production applications is hosted in private repositories. Code walkthroughs and architecture demonstrations are gladly provided upon request.*
 
 ---
 
